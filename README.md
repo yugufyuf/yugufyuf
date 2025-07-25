@@ -1,4 +1,3 @@
-## Hi 👋
 <h1 align="center">Hi, I'm <span style="color:#a88add;">Cevvian</span> 🌿</h1>
 <p align="center">
   <i>A curious mind. A quiet fire. A creative coder.</i><br/>
