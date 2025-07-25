@@ -2,7 +2,7 @@
 <p align="center">
   <i>A curious mind. A quiet fire. A creative coder.</i><br/>
   <img src="https://img.shields.io/badge/Made%20with-love-ffb6c1?style=flat-square" />
-  <img src="https://img.shields.io/badge/focus-backend%20%2B%20?style=flat-square" />
+  <img src="https://img.shields.io/badge/focus-backend%20%2B%2089CFF0?style=flat-square" />
 </p>
 <a href="https://github.com/devxb/gitanimals">
 <img
